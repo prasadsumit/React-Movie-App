@@ -1,16 +1,16 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import HomePage from './Component/HomePage/HomePage';
-import Navbar from './Component/HomePage/Navbar';
-import { AuthGuardFunction } from './Component/Auth/AuthGuardFunction';
-import WatchList from './Component/HomePage/WatchList'
-import RequireAuth from './Component/Auth/RequireAuth';
+import HomePage from './components/HomePage/HomePage';
+import Navbar from './components/HomePage/Navbar';
+import { AuthGuardFunction } from './components/Auth/AuthGuardFunction';
+import WatchList from './components/HomePage/WatchList'
+import RequireAuth from './components/Auth/RequireAuth';
 import { useState } from 'react';
-import Login from './Component/HomePage/Login';
-import Profile from './Component/Profile';
-import Subscription from './Component/PaymentFlowComponent/Subscription';
-import PaymentGate from './Component/PaymentFlowComponent/PaymentGate';
-import VideoPlayer from './Component/VideoPlayer';
+import Login from './components/HomePage/Login';
+import Profile from './components/Profile';
+import Subscription from './components/PaymentFlowComponent/Subscription';
+import PaymentGate from './components/PaymentFlowComponent/PaymentGate';
+import VideoPlayer from './components/VideoPlayer';
 
 
 function App() {

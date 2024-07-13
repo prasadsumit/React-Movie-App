@@ -103,7 +103,7 @@ function Profile() {
         <section className="px-4 py-12">
           <div className="max-w-4xl mx-auto">
             <div className="flex justify-center items-center mb-8">
-              <img src={require("./Media/user.png")} alt="Profile" className="w-32 h-32 rounded-full mr-4" />
+              <img src={require("../assets/images/user.png")} alt="Profile" className="w-32 h-32 rounded-full mr-4" />
               <div>
                 <h2 className="text-3xl font-bold">{userData.firstName} {userData.lastName}</h2>
                 <p className="text-gray-400">User ID: {userData.userId}</p>

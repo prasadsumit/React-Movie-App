@@ -36,7 +36,7 @@ function Navbar({ LoginModalState }) {
         </button>
       ) :  <div>
       <button onClick={handleProfileModal} className="text-gray-300 hover:text-white">
-        <img src={require("../Media/UserProfile.png")} alt='/'></img>
+        <img src={require("../../assets/images/UserProfile.png")} alt='/'></img>
       </button>
     </div>}
 
