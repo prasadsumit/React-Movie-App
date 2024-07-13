@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.desc-overflowed::-webkit-scrollbar {
+  display: none; /* Hide scrollbar */
+}
+
+
+.Profile_Menu
+{
+  z-index: 999;
+}

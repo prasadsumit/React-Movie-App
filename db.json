@@ -1,0 +1,716 @@
+{
+  "profile": [
+    {
+      "id": "1",
+      "firstName": "Anirudh",
+      "lastName": "Kulkarni",
+      "Subscription": "Active",
+      "SubscriptionType": "Basic",
+      "userId": "Anirudh9094",
+      "password": "Anirudh9094@123",
+      "avatar": "https://example.com/avatar1.jpg",
+      "plan": "Standard",
+      "subscriptionStatus": "Active",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [
+        {
+          "img": "https://image.tmdb.org/t/p/original/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+          "id": "1",
+          "title": "Family Guys",
+          "genre": "Comedy",
+          "description": "A hilarious animated sitcom about the Griffin family and their misadventures in the fictional town of Quahog.",
+          "netflixLink": "https://www.netflix.com/title/70153380",
+          "plan": "free"
+        },
+        {
+          "img": "https://image.tmdb.org/t/p/original/m3Jev59mJLyUp5bXhY5SVfIBZI0.jpg",
+          "id": "2",
+          "title": "Friends",
+          "genre": "Comedy",
+          "description": "Follow the lives, relationships, and hilarious antics of six friends living in New York City.",
+          "netflixLink": "https://www.netflix.com/title/70153404",
+          "plan": "paid"
+        },
+        {
+          "img": "https://image.tmdb.org/t/p/original/eGfqlVKRhADPB0jqJxu74IWBTpW.jpg",
+          "id": "3",
+          "title": "The Office",
+          "genre": "Comedy",
+          "description": "A mockumentary sitcom about office life at the Scranton, Pennsylvania branch of the Dunder Mifflin Paper Company.",
+          "netflixLink": "https://www.netflix.com/title/70136120",
+          "plan": "free"
+        },
+        {
+          "img": "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKx1F1.jpg",
+          "id": "22",
+          "title": "The Exorcist",
+          "genre": "Horror",
+          "description": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+          "netflixLink": "https://www.netflix.com/title/60011659",
+          "plan": "paid"
+        },
+        {
+          "img": "https://image.tmdb.org/t/p/original/fJTDXdfFw6chsPXCluu6Elg0nMd.jpg",
+          "id": "4",
+          "title": "The Hangover",
+          "genre": "Comedy",
+          "description": "Three friends embark on a wild and unforgettable trip to Las Vegas for a bachelor party.",
+          "netflixLink": "https://www.netflix.com/title/70160804",
+          "plan": "paid"
+        }
+      ]
+    },
+    {
+      "watchHistory": [
+        {
+          "title": "Breaking Bad",
+          "watchedAt": "2024-03-28T21:15:00Z"
+        },
+        {
+          "title": "Narcos",
+          "watchedAt": "2024-03-29T22:00:00Z"
+        },
+        {
+          "id": 2,
+          "name": "The Godfather"
+        },
+        {
+          "id": 2,
+          "name": "The Godfather"
+        },
+        {
+          "id": 3,
+          "name": "The Dark Knight",
+          "genre": "action"
+        },
+        {
+          "id": 3,
+          "name": "The Dark Knight",
+          "genre": "action"
+        },
+        {
+          "id": 3,
+          "name": "The Dark Knight",
+          "genre": "action"
+        },
+        {
+          "id": 3,
+          "name": "The Dark Knight",
+          "genre": "action"
+        },
+        {
+          "id": 3,
+          "name": "The Dark Knight",
+          "genre": "action"
+        }
+      ],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG-13"
+      },
+      "id": "9bca"
+    },
+    {
+      "id": "0.2699019299890928",
+      "firstName": "Hero",
+      "lastName": "Hiralal",
+      "Subscription": "",
+      "SubscriptionType": "Mobile",
+      "userId": "_hero",
+      "password": "Hero@123",
+      "plan": "Standard",
+      "subscriptionStatus": "Active",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [
+        {
+          "img": "https://image.tmdb.org/t/p/original/fJTDXdfFw6chsPXCluu6Elg0nMd.jpg",
+          "id": "4",
+          "title": "The Hangover",
+          "genre": "Comedy",
+          "description": "Three friends embark on a wild and unforgettable trip to Las Vegas for a bachelor party.",
+          "netflixLink": "https://www.netflix.com/title/70160804",
+          "plan": "paid"
+        },
+        {
+          "img": "https://image.tmdb.org/t/p/original/m3Jev59mJLyUp5bXhY5SVfIBZI0.jpg",
+          "id": "2",
+          "title": "Friends",
+          "genre": "Comedy",
+          "description": "Follow the lives, relationships, and hilarious antics of six friends living in New York City.",
+          "netflixLink": "https://www.netflix.com/title/70153404",
+          "plan": "paid"
+        },
+        {
+          "img": "https://image.tmdb.org/t/p/original/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+          "id": "6",
+          "title": "Superbad",
+          "genre": "Comedy",
+          "description": "Two high school friends embark on a wild night of adventure and misadventure before their graduation.",
+          "netflixLink": "https://www.netflix.com/title/70084782",
+          "plan": "paid"
+        }
+      ],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG"
+      }
+    },
+    {
+      "id": "0.48289061853208626",
+      "firstName": "Anirudh",
+      "lastName": "Kulkarni",
+      "Subscription": "",
+      "SubscriptionType": "",
+      "userId": "Ani9094",
+      "password": "Ani9094@",
+      "plan": "Standard",
+      "subscriptionStatus": "Inactive",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG"
+      }
+    },
+    {
+      "id": "0.9718863322922873",
+      "firstName": "hero",
+      "lastName": "hero",
+      "Subscription": "Active",
+      "SubscriptionType": "Mobile",
+      "userId": "hero",
+      "password": "hero",
+      "plan": "",
+      "subscriptionStatus": "Active",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [
+        {
+          "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/z1WgfWZ1Ky9QZvpFZCUYrahYRv9.jpg",
+          "id": "1",
+          "title": "Family Guys",
+          "genre": "Comedy",
+          "description": "A hilarious animated sitcom about the Griffin family and their misadventures in the fictional town of Quahog.",
+          "netflixLink": "https://www.netflix.com/title/70153380",
+          "plan": "free"
+        },
+        {
+          "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/5K4e4g5fx2YQtZLWzSDzq1Z3I8j.jpg",
+          "id": "2",
+          "title": "Friends",
+          "genre": "Comedy",
+          "description": "Follow the lives, relationships, and hilarious antics of six friends living in New York City.",
+          "netflixLink": "https://www.netflix.com/title/70153404",
+          "plan": "paid"
+        },
+        {
+          "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
+          "id": "3",
+          "title": "The Office",
+          "genre": "Comedy",
+          "description": "A mockumentary sitcom about office life at the Scranton, Pennsylvania branch of the Dunder Mifflin Paper Company.",
+          "netflixLink": "https://www.netflix.com/title/70136120",
+          "plan": "free"
+        }
+      ],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG"
+      }
+    },
+    {
+      "id": "0.23680824667176692",
+      "firstName": "123456",
+      "lastName": "123456",
+      "Subscription": "Active",
+      "SubscriptionType": "Mobile",
+      "userId": "123456",
+      "password": "123456",
+      "plan": "Standard",
+      "subscriptionStatus": "Active",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG"
+      }
+    },
+    {
+      "id": "0.8064392666009652",
+      "firstName": "Ankit",
+      "lastName": "Mohanty",
+      "Subscription": "Inactive",
+      "SubscriptionType": "",
+      "userId": "AnkitM",
+      "password": "Ankit@123",
+      "plan": "Standard",
+      "subscriptionStatus": "Active",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [
+        {
+          "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/z1WgfWZ1Ky9QZvpFZCUYrahYRv9.jpg",
+          "id": "1",
+          "title": "Family Guys",
+          "genre": "Comedy",
+          "description": "A hilarious animated sitcom about the Griffin family and their misadventures in the fictional town of Quahog.",
+          "netflixLink": "https://www.netflix.com/title/70153380",
+          "plan": "free"
+        },
+        {
+          "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/yXSzo0VU1Q1QaB7Xg5Hqe4tXXA3.jpg",
+          "id": "7",
+          "title": "Breaking Bad",
+          "genre": "Drama",
+          "description": "A high school chemistry teacher turned methamphetamine manufacturer navigates the criminal underworld.",
+          "netflixLink": "https://www.netflix.com/title/70143836",
+          "plan": "free"
+        },
+        {
+          "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/5K4e4g5fx2YQtZLWzSDzq1Z3I8j.jpg",
+          "id": "2",
+          "title": "Friends",
+          "genre": "Comedy",
+          "description": "Follow the lives, relationships, and hilarious antics of six friends living in New York City.",
+          "netflixLink": "https://www.netflix.com/title/70153404",
+          "plan": "paid"
+        }
+      ],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG"
+      }
+    },
+    {
+      "id": "0.18747247694734348",
+      "firstName": "",
+      "lastName": "",
+      "Subscription": "Inactive",
+      "SubscriptionType": "",
+      "userId": "Anirudh9094@1234",
+      "password": "Anirudh9094@1234",
+      "plan": "Standard",
+      "subscriptionStatus": "Active",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG"
+      }
+    },
+    {
+      "id": "0.276240923213136",
+      "firstName": "dfgh",
+      "lastName": "fgh",
+      "Subscription": "Inactive",
+      "SubscriptionType": "",
+      "userId": "fgh",
+      "password": "fgh",
+      "plan": "Standard",
+      "subscriptionStatus": "Active",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG"
+      }
+    },
+    {
+      "id": "0.9905493957281009",
+      "firstName": "ppp",
+      "lastName": "ppp",
+      "Subscription": "Inactive",
+      "SubscriptionType": "",
+      "userId": "ppp",
+      "password": "ppp",
+      "plan": "Standard",
+      "subscriptionStatus": "Active",
+      "paymentType": "Credit Card",
+      "encryptedPaymentDetails": "XXXXXXXXXXXX1234",
+      "watchHistory": [],
+      "preferences": {
+        "language": "English",
+        "subtitleLanguage": "English",
+        "parentalControl": "PG"
+      }
+    }
+  ],
+  "Channel": [
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/z1WgfWZ1Ky9QZvpFZCUYrahYRv9.jpg",
+      "id": "1",
+      "title": "Family Guys",
+      "genre": "Comedy",
+      "description": "A hilarious animated sitcom about the Griffin family and their misadventures in the fictional town of Quahog.",
+      "netflixLink": "https://www.netflix.com/title/70153380",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/5K4e4g5fx2YQtZLWzSDzq1Z3I8j.jpg",
+      "id": "2",
+      "title": "Friends",
+      "genre": "Comedy",
+      "description": "Follow the lives, relationships, and hilarious antics of six friends living in New York City.",
+      "netflixLink": "https://www.netflix.com/title/70153404",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
+      "id": "3",
+      "title": "The Office",
+      "genre": "Comedy",
+      "description": "A mockumentary sitcom about office life at the Scranton, Pennsylvania branch of the Dunder Mifflin Paper Company.",
+      "netflixLink": "https://www.netflix.com/title/70136120",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+      "id": "4",
+      "title": "The Hangover",
+      "genre": "Comedy",
+      "description": "Three friends embark on a wild and unforgettable trip to Las Vegas for a bachelor party.",
+      "netflixLink": "https://www.netflix.com/title/70160804",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/en971MEXui9diirXlogOrPKmsEn.jpg",
+      "id": "5",
+      "title": "Deadpool",
+      "genre": "Comedy",
+      "description": "A hilarious and action-packed superhero film featuring the irreverent anti-hero, Deadpool.",
+      "netflixLink": "https://www.netflix.com/title/80002311",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/5gpo8j16087Vd5nB9HDhIz28x.jpg",
+      "id": "6",
+      "title": "Superbad",
+      "genre": "Comedy",
+      "description": "Two high school friends embark on a wild night of adventure and misadventure before their graduation.",
+      "netflixLink": "https://www.netflix.com/title/70084782",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/yXSzo0VU1Q1QaB7Xg5Hqe4tXXA3.jpg",
+      "id": "7",
+      "title": "Breaking Bad",
+      "genre": "Drama",
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer navigates the criminal underworld.",
+      "netflixLink": "https://www.netflix.com/title/70143836",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/irlfhYtHfhZuYpsq2LAoh308NFe.jpg",
+      "id": "8",
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "netflixLink": "https://www.netflix.com/title/70005379",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/vDACQOBMpdwrcpKfnNrdg1z9MGq.jpg",
+      "id": "9",
+      "title": "The Godfather",
+      "genre": "Drama",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "netflixLink": "https://www.netflix.com/title/60011663",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/ghgfzbEV7kbpbi1O8eIILKVXEA8.jpg",
+      "id": "10",
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "description": "A man with a low IQ embarks on an extraordinary journey through decades of American history.",
+      "netflixLink": "https://www.netflix.com/title/60004499",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/rWhHKYNeLyfolLk9PGFOeyVGuoB.jpg",
+      "id": "11",
+      "title": "Avengers: Infinity War",
+      "genre": "Action",
+      "description": "The Avengers team up to stop the villainous Thanos from collecting all the Infinity Stones and wiping out half of all life in the universe.",
+      "netflixLink": "https://www.netflix.com/title/80219127",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/pjyzrh1bdv1UTpDRHvM850TJAmT.jpg",
+      "id": "12",
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "description": "Batman faces off against the Joker in a battle for Gotham City's soul.",
+      "netflixLink": "https://www.netflix.com/title/70075519",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+      "id": "13",
+      "title": "Inception",
+      "genre": "Action",
+      "description": "A thief who enters the dreams of others to steal their secrets is offered a chance to have his criminal history erased.",
+      "netflixLink": "https://www.netflix.com/title/70131314",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/hQ0k6RJwcWLJEHfP5vxrDpMiRdk.jpg",
+      "id": "14",
+      "title": "Die Hard",
+      "genre": "Action",
+      "description": "New York City cop John McClane battles a group of terrorists who have taken hostages in a Los Angeles skyscraper.",
+      "netflixLink": "https://www.netflix.com/title/80103823",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+      "id": "15",
+      "title": "Jurassic Park",
+      "genre": "Action",
+      "description": "Dinosaurs are brought back to life through genetic engineering, but things go horribly wrong when the creatures escape.",
+      "netflixLink": "https://www.netflix.com/title/60000883",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/ncEsesgOJDNrTUED89hYbA117wo.jpg",
+      "id": "16",
+      "title": "The Matrix",
+      "genre": "Action",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "netflixLink": "https://www.netflix.com/title/20557937",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/3vSpvbyxkjtMSkVvl7gadIspQR4.jpg",
+      "id": "17",
+      "title": "The Lion King",
+      "genre": "Animation",
+      "description": "A young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+      "netflixLink": "https://www.netflix.com/title/80010166",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/lxD5ak7BOoinRNehOCA85CQ8ubr.jpg",
+      "id": "18",
+      "title": "Toy Story",
+      "genre": "Animation",
+      "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+      "netflixLink": "https://www.netflix.com/title/60014684",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/pDMndR1yj7WHZmLTwzLxMu16xxD.jpg",
+      "id": "19",
+      "title": "Finding Nemo",
+      "genre": "Animation",
+      "description": "A clownfish embarks on a journey to rescue his son who has been captured in the Great Barrier Reef.",
+      "netflixLink": "https://www.netflix.com/title/60021813",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/mh7ykIfHDwTwPmhEhbV7yJN8SnB.jpg",
+      "id": "20",
+      "title": "Shrek",
+      "genre": "Animation",
+      "description": "An ogre and his new friend embark on a quest to rescue a princess and reclaim the land the villainous Lord Farquaad has seized.",
+      "netflixLink": "https://www.netflix.com/title/60020384",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
+      "id": "21",
+      "title": "Jaws",
+      "genre": "Horror",
+      "description": "A giant great white shark arrives on the shores of a New England beach resort and wreaks havoc with bloody attacks on swimmers.",
+      "netflixLink": "https://www.netflix.com/title/111476",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/cMsBNKD2KUoRkyH0lwzJybaervA.jpg",
+      "id": "22",
+      "title": "The Exorcist",
+      "genre": "Horror",
+      "description": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+      "netflixLink": "https://www.netflix.com/title/60011659",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/ylX85jBQirnbOidYcks36tlEIs0.jpg",
+      "id": "23",
+      "title": "Psycho",
+      "genre": "Horror",
+      "description": "A secretary embezzles money and flees to a remote motel run by a disturbed proprietor.",
+      "netflixLink": "https://www.netflix.com/title/80117167",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/jWHagVuSoWOluZwPyFctAyU6NHd.jpg",
+      "id": "24",
+      "title": "The Shining",
+      "genre": "Horror",
+      "description": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence.",
+      "netflixLink": "https://www.netflix.com/title/477045",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/6HkIkXERJHl2Eab1zLrof8EYsBR.jpg",
+      "id": "25",
+      "title": "The Conjuring",
+      "genre": "Horror",
+      "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "netflixLink": "https://www.netflix.com/title/70252371",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/czRXzKy5YcvoVhRUb8RQsFHUDi1.jpg",
+      "id": "26",
+      "title": "Halloween",
+      "genre": "Horror",
+      "description": "Fifteen years after murdering his sister on Halloween night, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield to kill again.",
+      "netflixLink": "https://www.netflix.com/title/80074237",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/1oICoQA7bgyyOhDVrPi2iR1CbmH.jpg",
+      "id": "27",
+      "title": "Game of Thrones",
+      "genre": "Fantasy",
+      "description": "Noble families vie for control of the Iron Throne in the Seven Kingdoms of Westeros.",
+      "netflixLink": "https://www.netflix.com/title/80074237",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+      "id": "28",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy",
+      "description": "A young hobbit, Frodo Baggins, embarks on a perilous quest to destroy the One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "netflixLink": "https://www.netflix.com/title/60034571",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+      "id": "29",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "genre": "Fantasy",
+      "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family, and the terrible evil that haunts the magical world.",
+      "netflixLink": "https://www.netflix.com/title/60004485",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+      "id": "30",
+      "title": "Pan's Labyrinth",
+      "genre": "Fantasy",
+      "description": "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+      "netflixLink": "https://www.netflix.com/title/70044091",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
+      "id": "31",
+      "title": "Star Wars: A New Hope",
+      "genre": "Sci-Fi",
+      "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying Death Star.",
+      "netflixLink": "https://www.netflix.com/title/80114742",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/dH6m8iWJEPIFoyQaZiuo9Ih7kpA.jpg",
+      "id": "32",
+      "title": "The Terminator",
+      "genre": "Sci-Fi",
+      "description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+      "netflixLink": "https://www.netflix.com/title/60011152",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/c8iM9ipgkZNDSyfQYNSKBB7ORaG.jpg",
+      "id": "33",
+      "title": "Blade Runner",
+      "genre": "Sci-Fi",
+      "description": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+      "netflixLink": "https://www.netflix.com/title/70079583",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/7dW4BobKP5ijWCLnbhxvcogVvHs.jpg",
+      "id": "34",
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "description": "A thief who enters the dreams of others to steal their secrets is offered a chance to have his criminal history erased.",
+      "netflixLink": "https://www.netflix.com/title/70131314",
+      "plan": "paid"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/i4Q8cSh782JxAwzHpEHFXtE6afP.jpg",
+      "id": "35",
+      "title": "The Martian",
+      "genre": "Sci-Fi",
+      "description": "An astronaut becomes stranded on Mars after his team assumes him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+      "netflixLink": "https://www.netflix.com/title/80045749",
+      "plan": "free"
+    },
+    {
+      "img": "https://media.themoviedb.org/t/p/w500_and_h282_face/gEFe2joIQUopBmMPXOHPxuX2f4u.jpg",
+      "id": "36",
+      "title": "The Fifth Element",
+      "genre": "Sci-Fi",
+      "description": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+      "netflixLink": "https://www.netflix.com/title/913",
+      "plan": "paid"
+    }
+  ],
+  "newReleaseMovieList": [
+    {
+      "id": "1",
+      "title": "Stranger Things",
+      "description": "A group of kids investigates supernatural occurrences in their small town.",
+      "netflixLink": "https://www.netflix.com/title/80057281"
+    },
+    {
+      "id": "2",
+      "title": "The Crown",
+      "description": "A historical drama series about the reign of Queen Elizabeth II.",
+      "netflixLink": "https://www.netflix.com/title/80025678"
+    },
+    {
+      "id": "3",
+      "title": "Breaking Bad",
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer.",
+      "netflixLink": "https://www.netflix.com/title/70143836"
+    },
+    {
+      "id": "4",
+      "title": "Narcos",
+      "description": "The true story of Colombia's infamously violent and powerful drug cartels.",
+      "netflixLink": "https://www.netflix.com/title/80025172"
+    },
+    {
+      "id": "5",
+      "title": "Friends",
+      "description": "A group of friends living in New York City navigate their personal and professional lives.",
+      "netflixLink": "https://www.netflix.com/title/70153404"
+    },
+    {
+      "id": "6",
+      "title": "The Office",
+      "description": "A mockumentary sitcom about office life at the Scranton, Pennsylvania branch of the Dunder Mifflin Paper Company.",
+      "netflixLink": "https://www.netflix.com/title/70136120"
+    }
+  ]
+}
